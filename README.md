@@ -140,4 +140,4 @@ const selectedValue = store.useStore(state => state.someValue);
 
 ## License
 
-MIT
+[MIT](LICENSE)
